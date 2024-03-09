@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//TexnoDvizh/static/css/main.c6648116.css",
+    "main.js": "//TexnoDvizh/static/js/main.68de7b46.js",
+    "static/js/453.ed3810f9.chunk.js": "//TexnoDvizh/static/js/453.ed3810f9.chunk.js",
+    "static/media/imggg.png": "//TexnoDvizh/static/media/imggg.3550e522dfb604adbf6a.png",
+    "index.html": "//TexnoDvizh/index.html",
+    "main.c6648116.css.map": "//TexnoDvizh/static/css/main.c6648116.css.map",
+    "main.68de7b46.js.map": "//TexnoDvizh/static/js/main.68de7b46.js.map",
+    "453.ed3810f9.chunk.js.map": "//TexnoDvizh/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6648116.css",
+    "static/js/main.68de7b46.js"
+  ]
+}
